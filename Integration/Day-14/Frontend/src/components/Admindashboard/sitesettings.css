@@ -1,0 +1,27 @@
+.site-settings-entire{
+    height: auto;
+}
+.sitesetting-aboutus textarea,.sitesetting-contactus textarea{
+    resize: none;
+    height: 40vh;
+    width: 85%;
+    font-size: medium;
+}
+.sitesetting-btn2{
+    height: 7vh;
+    width: 10%;
+    background-color: darkcyan;
+    border-color: darkcyan;
+    color: white;
+    border-radius: 10px;
+}
+/* .sitesetting-btn1{
+    height: 7vh;
+    width: 12%;
+    background-color: rgb(12, 164, 7);
+    border-color: rgb(12, 164, 7);
+    color: white;
+} */
+.site-settings-contents{
+    padding-left: 7%;
+}
